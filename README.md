@@ -4,18 +4,6 @@
 
 ---
 
-## 📑 Table of Contents  
-- [Introduction](#-introduction)  
-- [Tools Used](#-tools-used)  
-- [Libraries Used](#-libraries-used)  
-- [Data Loading](#-data-loading)  
-- [Data Preview](#-data-preview)  
-- [Data Cleaning](#-data-cleaning)  
-- [Duration Conversion](#-duration-conversion)  
-- [Exporting Clean Data](#-exporting-clean-data)  
-- [Power BI Dashboard](#-power-bi-dashboard)  
-
-
 ## 📝 Introduction  
 
 **Project on Netflix Data Analysis** — I imported the raw dataset into **VS Code** and cleaned it using **Python**, handling missing values, standardizing columns, and removing duplicates.  
