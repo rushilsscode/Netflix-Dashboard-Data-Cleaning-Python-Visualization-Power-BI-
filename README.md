@@ -1,4 +1,4 @@
- # 🎬 Netflix Dashboard – Data Analysis & Visualization Project
+ ## 🎬 Netflix Dashboard – Data Analysis & Visualization Project
 <img width="750" height="512" alt="Netflix-Logo" src="https://github.com/user-attachments/assets/dc68a0c5-0587-4027-a8db-e51a06438b8f" />
 
 ## Introduction  
@@ -11,8 +11,10 @@ Project on Netflix data analysis — I imported the raw dataset into **VS Code**
 - **Data Cleaning & Preparation Environment:** VS Code + Jupyter Notebook  
 - **Dataset:** Netflix Titles (movies & TV shows)
 
-#Imported Required libraries
+##Imported Required libraries
 <img width="479" height="104" alt="Screenshot 2025-11-02 150026" src="https://github.com/user-attachments/assets/592a7415-70aa-4ea0-8b8b-5a061c5ec59e" />
+
+
 -Pandas: A powerful data analysis library used for cleaning, organizing, and transforming the Netflix dataset. It helped handle missing values, remove duplicates, and perform data exploration efficiently using DataFrames.
 
 -NumPy: A numerical computing library that provided fast operations on large datasets. It was mainly used for performing mathematical calculations and converting duration data into minutes.
