@@ -3,18 +3,19 @@
 <img width="750" height="512" alt="Netflix-Logo" src="https://github.com/user-attachments/assets/dc68a0c5-0587-4027-a8db-e51a06438b8f" />
 
 ---
-
-📑 Table of Contents  
-- [Introduction](#-introduction)  
-- [Tools Used](#-tools-used)  
-- [Libraries Used](#-libraries-used)  
-- [Data Loading](#-data-loading)  
-- [Data Preview](#-data-preview)  
-- [Data Cleaning](#-data-cleaning)  
-- [Duration Conversion](#-duration-conversion)  
-- [Exporting Clean Data](#-exporting-clean-data)  
-- [Power BI Dashboard](#Power-BI-Dashboard-–-Netflix-Content-Insights)  
-
+## 📑 Table of Contents
+- [📝 Introduction](#-introduction)
+- [⚙️ Tools Used](#-tools-used)
+- [🧠 Libraries Used](#-libraries-used)
+- [📥 Data Loading](#-data-loading)
+- [🔍 Data Exploration & Cleaning](#-data-exploration--cleaning)
+  - [🔁 Duplicate Records Check](#-duplicate-records-check)
+  - [🧩 Data Types Check](#-data-types-check)
+  - [🧼 Handling Missing Values](#-handling-missing-values)
+  - [🌍 Handling Missing Country Data](#-handling-missing-country-data)
+  - [⏱️ Converting Duration into Minutes](#️-converting-duration-into-minutes)
+  - [💾 Exporting the Cleaned Dataset](#-exporting-the-cleaned-dataset)
+- [📊 Power BI Dashboard – Netflix Content Insights](#-power-bi-dashboard--netflix-content-insights)
 
 ## 📝 Introduction  
 
